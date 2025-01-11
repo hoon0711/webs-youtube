@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const Website = () => {
-    return (
-        <div>Webd</div>
-    )
-}
+  return <div>Webd</div>;
+};
 
-export default Website
+export default Website;
