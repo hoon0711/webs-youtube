@@ -6,9 +6,6 @@ import { developerText } from "../../data/developer";
 
 const Developer = () => {
 
-  console.log(developerText);
-  
-
   return (
     <section id="developer">
       <h2>😪 추천 개발자를 소개합니다.</h2>

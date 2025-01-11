@@ -4,6 +4,8 @@ import { todayText } from "../../data/today";
 import { Link } from "react-router-dom";
 
 const Today = () => {
+  
+  
   return (
     <section id="today">
       <div className="today__inner">
